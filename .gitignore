@@ -1,0 +1,8 @@
+_intermediate_*/
+release/
+debug/
+Makefile*
+.qmake.stash
+*.dll
+*.exp
+*.lib

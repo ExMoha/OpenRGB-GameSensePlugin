@@ -1,0 +1,8 @@
+{
+    "Id": "org.openrgb.plugin.steelseries-gamesense",
+    "Name": "SteelSeries GameSense",
+    "Url": "https://gitlab.com/xmo4/OpenRGB-GameSensePlugin",
+    "VersionStr": "1.0",
+    "Commit": "",
+    "OpenRGBPluginAPIVersion": 5
+}
